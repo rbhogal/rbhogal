@@ -1,7 +1,7 @@
 [![Banner](./github-banner.png)](https://rbhogal.github.io)
 
 
-### Hi 👋
+### Hi 👋🏼
 I'm Rohit, a frontend developer, but I like to think of myself as a creator. I just love making things. Both beautiful user-focused designs into pixel-perfect websites with animations, or applications that run blazing fast. 
 
 <!--
