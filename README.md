@@ -1,3 +1,6 @@
+[![Banner](./github-banner.png)](https://rbhogal.github.io)
+
+
 ### Hi there 👋
 
 <!--
