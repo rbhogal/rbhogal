@@ -6,6 +6,7 @@ Hi, I'm Rohit 👋🏼
 </h1>
 
 A frontend developer, but I like to think of myself as a creator. I just love making things. Beautiful user-focused designs into pixel-perfect websites with animations, or fast running web applications. Currently looking for work.
+
 I'm currently working on a meal tracking app to help stay fit using React, Redux, Firebase Authentication and Database, and Material-UI. 
 
 ## Skills
