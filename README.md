@@ -7,7 +7,12 @@ Hi, I'm Rohit 👋🏼
 
 A frontend developer, but I like to think of myself as a creator. I just love making things. Beautiful user-focused designs into pixel-perfect websites with smooth animations, or web applications that run FAST.
 
-I'm currently working on a meal tracking app to help users stay fit using React, Redux, Firebase Authentication and Database, and Material-UI.  
+#### Current Project
+A meal tracking app to help users stay fit using React, Redux, Firebase Authentication and Database, and Material-UI.
+
+#### Currently Learning
+Typescript, Next.js, Jest & React Testing Library  
+
 <div align="center">
 
 [![LinkedIn](icons/iconmonstr-linkedin-4-48.png)](https://linkedin.com/in/rohit-bhogal)
