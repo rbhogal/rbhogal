@@ -11,7 +11,7 @@ A frontend developer, but I like to think of myself as a creator. I just love ma
 A meal tracking app to help users stay fit using React, Redux, Firebase Authentication and Database, and Material-UI.
 
 #### Currently Learning
-Typescript, Next.js, Jest & React Testing Library  
+Next.js, Jest & React Testing Library, Typescript
 
 <div align="center">
 
