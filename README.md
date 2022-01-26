@@ -9,6 +9,14 @@ A frontend developer, but I like to think of myself as a creator. I just love ma
 
 I'm currently working on a meal tracking app to help users stay fit using React, Redux, Firebase Authentication and Database, and Material-UI. 
 
+<div align="center">
+
+[![LinkedIn](icons/iconmonstr-linkedin-4-48.png)](https://linkedin/in/rohit-bhogal)
+[![Portfolio](icons/iconmonstr-link-1-48.png)](https://rbhogal.github.io)
+
+</div>
+
+
 ## Skills
 
 #### Languages
