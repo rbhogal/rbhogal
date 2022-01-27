@@ -4,8 +4,8 @@
 <h1 align="center">
 Hi, I'm Rohit 👋🏼
 </h1>
-
-A frontend developer, but I like to think of myself as a creator. I just love making things. Beautiful user-focused designs into pixel-perfect websites with smooth animations, or web applications that run FAST.
+<br />
+A frontend developer, with a passion for aesthetic design, problem solving, and creating things. Beautiful user-focused designs into pixel-perfect websites with smooth animations, or web applications that run FAST.
 
 #### Current Project
 A meal tracking app to help users stay fit using React, Redux, Firebase Authentication and Database, and Material-UI.
