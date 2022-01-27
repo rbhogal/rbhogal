@@ -5,7 +5,7 @@
 Hi, I'm Rohit 👋🏼
 </h1>
 <br />
-A frontend developer, with a passion for aesthetic design, problem solving, and creating things. Beautiful user-focused designs into pixel-perfect websites with smooth animations, or web applications that run FAST.
+A frontend developer, with a passion for aesthetic design, problem solving, and creating things. Both beautiful user-focused designs into pixel-perfect websites with smooth animations, or web applications that run FAST.
 
 #### Current Project
 A meal tracking app to help users stay fit using React, Redux, Firebase Authentication and Database, and Material-UI.
