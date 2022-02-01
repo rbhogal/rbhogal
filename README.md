@@ -8,7 +8,7 @@ Hi, I'm Rohit 👋🏼
 A frontend developer, with a passion for aesthetic design, problem solving, and creating things. Both beautiful user-focused designs into pixel-perfect websites with smooth animations, or web applications that run FAST.
 
 #### Current Project
-A meal tracking app to help users (and myself) meet their fitness goals using React, Redux, Firebase Authentication and Database, and Material-UI.
+A [meal tracking app](https://github.com/rbhogal/get-fit-app) to help users (and myself) meet their fitness goals using React, Redux, Firebase Authentication and Database, and Material-UI.
 
 #### Currently Learning
 Next.js, Jest & React Testing Library, Typescript
