@@ -33,7 +33,7 @@ React
 Git, Visual Studio Code, NPM, Parcel, Firebase, Netlify, Postman, Adobe Photoshop
 
 #### Libraries
-React Router, Redux, Material-UI, GreenSock Animation Platform (GSAP), Lodash
+React-Router, Redux, Material-UI, GreenSock Animation Platform (GSAP), Lodash
 
 ## Pinned Projects
 
