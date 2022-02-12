@@ -27,13 +27,13 @@ Next.js, Jest & React Testing Library, Typescript, Tailwind CSS, Figma
 Javascript, HTML & CSS (Scss)
 
 #### Frameworks
-React & Redux, Material-UI
+React
 
 #### Deveopler Tools
 Git, Visual Studio Code, NPM, Parcel, Firebase, Netlify, Postman, Adobe Photoshop
 
 #### Libraries
-GreenSock Animation Platform (GSAP), Lodash
+React Router, Redux, Material-UI, GreenSock Animation Platform (GSAP), Lodash
 
 ## Pinned Projects
 
