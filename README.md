@@ -38,6 +38,7 @@ React-Router, Redux, Material-UI, GreenSock Animation Platform (GSAP), Lodash
 ## Pinned Projects
 
 ### Web Apps
+[![GetFit App](https://github-readme-stats.vercel.app/api/pin/?username=rbhogal&repo=get-fit-app)](https://github.com/rbhogal/get-fit-app)
 [![Game Save App](https://github-readme-stats.vercel.app/api/pin/?username=rbhogal&repo=game-save-app)](https://github.com/rbhogal/game-save-app)
 [![Forkify App](https://github-readme-stats.vercel.app/api/pin/?username=rbhogal&repo=forkify-app)](https://github.com/rbhogal/forkify-app)
 
