@@ -10,8 +10,8 @@ A frontend developer, with a passion for aesthetic design, problem solving, and 
 #### Current Project
 A [meal tracking app](https://github.com/rbhogal/get-fit-app) to help users (and myself) meet their fitness goals using React, Redux, Firebase Authentication and Database, and Material-UI.
 
-#### Currently Learning
-Next.js, Jest & React Testing Library, Typescript, Tailwind CSS, Figma
+#### Interested in Learnig
+Next.js, Headless CMS, Shopify, Jest & React Testing Library, Typescript, Tailwind CSS, Animations, Figma/Design
 
 <div align="center">
 
