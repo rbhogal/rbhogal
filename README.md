@@ -56,7 +56,7 @@ faker, eslint, Material-UI, Yarn, NPM, Firebase, Lodash
 ## GitHub Stats
 
 <div display="flex">
- <img src="https://github-readme-stats.vercel.app/api?username=rbhogal"> 
+ <!-- <img src="https://github-readme-stats.vercel.app/api?username=rbhogal"> -->
  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rbhogal&layout=compact">
 </div>
 
