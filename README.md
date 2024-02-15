@@ -5,7 +5,7 @@
 Hi, I'm Rohit 👋🏼
 </h1>
 <br />
-A frontend developer, with a passion for aesthetic design, problem solving, and creating things. Both beautiful user-focused designs into pixel-perfect websites with smooth animations, or web applications that run FAST.
+A frontend engineer, with a passion for aesthetic design, problem solving, and creating things. Both beautiful user-focused designs into pixel-perfect websites with smooth animations, or web applications that run FAST.
 
 #### Current Project
 A [meal tracking app](https://github.com/rbhogal/get-fit-app) to help users (and myself) meet their fitness goals using React, Redux, Firebase Authentication and Database, and Material-UI.
@@ -24,16 +24,18 @@ Next.js, Headless CMS, Shopify, Jest & React Testing Library, Typescript, Tailwi
 ## Skills
 
 #### Languages
-Javascript, HTML & CSS (Scss)
+TypeScript, Javascript, HTML & CSS (Scss)
 
 #### Frameworks
-React
+React, Jest & React Testing Library
 
 #### Deveopler Tools
-Git, Visual Studio Code, NPM, Parcel, Firebase, Netlify, Postman, Adobe Photoshop
+Git, Visual Studio Code, GitHub, Docker, Jira, Figma, AWS/Code Artifact, Chrome DevTools, Postman
 
 #### Libraries
-React-Router, Redux, Material-UI, GreenSock Animation Platform (GSAP), Lodash
+Redux, React-Router, React-Query, Redux-Query, Formik, Yup, Mirage.js, Amplitude, Storybook, Webpack,
+faker, eslint, Material-UI, Yarn, NPM, Firebase, Lodash
+
 
 ## Pinned Projects
 
