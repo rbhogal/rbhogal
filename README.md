@@ -21,8 +21,8 @@ Next.js, Headless CMS, Shopify, Jest & React Testing Library, Typescript, Tailwi
 
 <div align="center">
 
-[![LinkedIn](icons/iconmonstr-linkedin-3-32.png)](https://linkedin.com/in/rohit-bhogal)
 [![Portfolio](icons/iconmonstr-home-6-32.png)](https://rbhogal.github.io)
+[![LinkedIn](icons/iconmonstr-linkedin-3-32.png)](https://linkedin.com/in/rohit-bhogal)
 
 </div>
 
