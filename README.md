@@ -14,10 +14,10 @@ I have two years of experience working in the health tech space with a cross-fun
 #### Current Project
 A [meal tracking app](https://github.com/rbhogal/get-fit-app) to help users (and myself) meet their fitness goals using React, Redux, Firebase Authentication and Database, and Material-UI.
 
-<!--
+
 #### Interested in Learning
-Next.js, Headless CMS, Shopify, Jest & React Testing Library, Typescript, Tailwind CSS, Animations, Figma/Design
---> 
+Next.js, Headless CMS, Tailwind CSS, WebGL, Three.js, Design, Storybook/UI development
+
 
 <div align="center">
 
