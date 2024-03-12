@@ -37,11 +37,11 @@ TypeScript, Javascript, HTML & CSS (Scss)
 React, Jest & React Testing Library
 
 #### Deveopler Tools
-GitHub, GitHub Actions, Docker, Jira, Confluence, Figma, Code Artifact, Chrome DevTools, Postman
+GitHub, GitHub Actions, Docker, Jira, Confluence, CircleCI, Figma, Code Artifact, Chrome DevTools, Postman
 
 #### Libraries
 Redux, React-Router, React-Query, Redux-Query, Formik, Yup, Mirage JS, Amplitude, Axios, Lodash, Storybook,
-Webpack, faker, eslint, Material-UI, Yarn, NPM
+Webpack, faker, eslint, Material-UI, Yarn, NPM, GSAP
 
 ## Pinned Projects
 
