@@ -5,7 +5,10 @@
 Hey, I'm Rohit.
 </h1>
 <br />
-Two years of experience in health tech product development, building scalable client-side features for an Electronic Health Record (EHR) platform. Passionate about creating intuitive solutions that make a real-world impact. Actively seeking new opportunities to leverage my skills and grow as an engineer.
+I have two years of experience in health tech product development, building scalable client-side features for an Electronic Health Record (EHR) platform. Passionate about creating intuitive solutions that make a real-world impact. Actively seeking new opportunities to leverage my skills and grow as an engineer.
+<br />
+<br />
+When I’m not coding, you’ll find me hitting the gym, experimenting with new recipes, exploring new cities, vibing to hip-hop, or catching a basketball game.
 <br />
 <br />
 
