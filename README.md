@@ -2,7 +2,7 @@
 
 
 <h1 align="center">
-Hi, I'm Rohit 👋🏼
+Hey, I'm Rohit 👋🏼
 </h1>
 <br />
 A frontend engineer with a lifelong passion for aesthetic design, problem solving, creating things, and a healthy addiction to coffee ☕️. 
