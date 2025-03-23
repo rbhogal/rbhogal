@@ -5,27 +5,9 @@
 Hey, I'm Rohit.
 </h1>
 <br />
-A frontend engineer with a lifelong passion for aesthetic design, problem solving, creating things, and a healthy addiction to coffee ☕️. 
+Two years of experience in health tech product development, building scalable client-side features for an Electronic Health Record (EHR) platform. Passionate about creating intuitive solutions that make a real-world impact. Actively seeking new opportunities to leverage my skills and grow as an engineer.
 <br />
 <br />
-I have two years of experience working in the health tech space with a cross-functional team focused on delivering clinician-first solutions --built on a collaborative Electronic Health Record (EHR) platform helping 24,000 clinicians to start, grow, and succeed in delivering the highest-quality care to patients.
-
-
-#### Current Project
-A [meal tracking app](https://github.com/rbhogal/get-fit-app) to help users (and myself) meet their fitness goals using React, Redux, Firebase Authentication and Database, and Material-UI.
-
-
-#### Interested in Learning
-Next.js, Headless CMS, Tailwind CSS, WebGL, Three.js, Design, Storybook/UI development
-<br />
-<br />
-
-<div align="center">
-
-[![Portfolio](icons/iconmonstr-home-6-32.png)](https://rbhogal.github.io)
-[![LinkedIn](icons/iconmonstr-linkedin-3-32.png)](https://linkedin.com/in/rohit-bhogal)
-
-</div>
 
 
 ## Skills
