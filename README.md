@@ -19,7 +19,7 @@ When I’m not coding, you’ll find me hitting the gym, experimenting with new 
 TypeScript, Javascript, HTML & CSS (Scss)
 
 #### Frameworks
-React, Jest & React Testing Library
+React, Next.js
 
 #### Deveopler Tools
 GitHub, GitHub Actions, Docker, Jira, Confluence, CircleCI, Figma, Code Artifact, Chrome DevTools, Postman
