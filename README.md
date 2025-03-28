@@ -16,16 +16,13 @@ When I’m not coding, you’ll find me hitting the gym, experimenting with new 
 ## Skills
 
 #### Languages
-TypeScript, Javascript, HTML & CSS (Scss)
+TypeScript, Javascript, HTML/CSS
 
 #### Frameworks
 React, Next.js
 
-#### Deveopler Tools
-GitHub, Docker, Jira, CircleCI, Figma
-
-#### Libraries
-Redux, React-Router, React-Query, Material-UI, Yarn, npm, GSAP
+#### Technologies
+Redux, React-Query, Jest, React Testing Library, CI/CD, Docker, Git, Yarn, npm, Material-UI
 
 ## Pinned Projects
 
