@@ -22,7 +22,7 @@ TypeScript, Javascript, HTML & CSS (Scss)
 React, Next.js
 
 #### Deveopler Tools
-GitHub, GitHub Actions, Docker, Jira, Confluence, CircleCI, Figma, Code Artifact, Chrome DevTools, Postman
+GitHub, Docker, Jira, CircleCI, Figma
 
 #### Libraries
 Redux, React-Router, React-Quer, Material-UI, Yarn, npm, GSAP
