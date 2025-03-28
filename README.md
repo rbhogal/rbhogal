@@ -35,7 +35,7 @@ Redux, React-Query, Jest, React Testing Library, CI/CD, Docker, Git, Yarn, npm, 
 ### Websites
 [![Burgerlords](https://github-readme-stats.vercel.app/api/pin/?username=rbhogal&repo=burgerlords-recreation)](https://github.com/rbhogal/burgerlords-recreation)
 [![Bookmark](https://github-readme-stats.vercel.app/api/pin/?username=rbhogal&repo=bookmark-landing-page)](https://github.com/rbhogal/bookmark-landing-page)
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=rbhogal&repo=rbhogal.github.io)](https://github.com/rbhogal/rbhogal.github.io)
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=rbhogal&repo=portfolio-v1)](https://github.com/rbhogal/portfolio-v1)
 
 
 ## GitHub Stats
