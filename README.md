@@ -25,7 +25,7 @@ React, Next.js
 GitHub, Docker, Jira, CircleCI, Figma
 
 #### Libraries
-Redux, React-Router, React-Quer, Material-UI, Yarn, npm, GSAP
+Redux, React-Router, React-Query, Material-UI, Yarn, npm, GSAP
 
 ## Pinned Projects
 
