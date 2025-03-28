@@ -25,7 +25,7 @@ React, Next.js
 GitHub, GitHub Actions, Docker, Jira, Confluence, CircleCI, Figma, Code Artifact, Chrome DevTools, Postman
 
 #### Libraries
-Redux, React-Router, React-Quer, Material-UI, Yarn, NPM, GSAP
+Redux, React-Router, React-Quer, Material-UI, Yarn, npm, GSAP
 
 ## Pinned Projects
 
