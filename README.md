@@ -18,19 +18,20 @@ When I’m not coding, you’ll find me hitting the gym, experimenting with new 
 #### Languages & Technologies
 TypeScript, Javascript, HTML/CSS, React, Next.js, Redux, React-Query, Jest, React Testing Library, CI/CD, Docker, Git, Yarn, npm, Material-UI
 
+<!--
 ## Pinned Projects
 
 ### Web Apps
 [![GetFit App](https://github-readme-stats.vercel.app/api/pin/?username=rbhogal&repo=get-fit-app)](https://github.com/rbhogal/get-fit-app)
 [![Game Save App](https://github-readme-stats.vercel.app/api/pin/?username=rbhogal&repo=game-save-app)](https://github.com/rbhogal/game-save-app)
-<!-- [![Forkify App](https://github-readme-stats.vercel.app/api/pin/?username=rbhogal&repo=forkify-app)](https://github.com/rbhogal/forkify-app) -->
+
 
 
 ### Websites
 [![Burgerlords](https://github-readme-stats.vercel.app/api/pin/?username=rbhogal&repo=burgerlords-recreation)](https://github.com/rbhogal/burgerlords-recreation)
 [![Bookmark](https://github-readme-stats.vercel.app/api/pin/?username=rbhogal&repo=bookmark-landing-page)](https://github.com/rbhogal/bookmark-landing-page)
 [![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=rbhogal&repo=portfolio-v1)](https://github.com/rbhogal/portfolio-v1)
-
+-->
 
 ## GitHub Stats
 
