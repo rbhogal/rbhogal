@@ -12,6 +12,7 @@ When I’m not coding, you’ll find me hitting the gym, experimenting with new 
 <br />
 <br />
 
+I'm currently working on [MedAssist AI](https://github.com/rbhogal/med-assist-ai), an a chatbot that handles FAQs and bookings for primary care clinics. 
 
 ## Skills
 
