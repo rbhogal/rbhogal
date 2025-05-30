@@ -16,8 +16,10 @@ I'm currently working on [MedAssist AI](https://github.com/rbhogal/med-assist-ai
 
 ## Skills
 
-#### Languages & Technologies
-TypeScript, Javascript, HTML/CSS, React, Next.js, Redux, React-Query, Jest, React Testing Library, CI/CD, Docker, Git, Yarn, npm, Material-UI
+#### Languages
+TypeScript, Javascript, HTML/CSS
+#### Technologies
+React, Next.js, Redux, React-Query, Jest, React Testing Library, CI/CD, Docker, Git, Yarn, npm, Material-UI
 
 <!--
 ## Pinned Projects
