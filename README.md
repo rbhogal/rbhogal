@@ -36,10 +36,14 @@ React, Next.js, Redux, React-Query, Jest, React Testing Library, CI/CD, Docker, 
 [![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=rbhogal&repo=portfolio-v1)](https://github.com/rbhogal/portfolio-v1)
 -->
 
+<!--
 ## GitHub Stats
-
+-->
+<!--
 <div display="flex">
  <!-- <img src="https://github-readme-stats.vercel.app/api?username=rbhogal"> -->
- <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rbhogal&layout=compact">
+ <!-- <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rbhogal&layout=compact"> --> 
 </div>
+
+
 
