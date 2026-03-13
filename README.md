@@ -5,7 +5,7 @@
 Hey, I'm Rohit.
 </h2>
 <br />
-Experienceed software engineer in health tech product development, building scalable client-side features for an Electronic Health Record (EHR) platform. Passionate about creating intuitive solutions that make a real-world impact. Actively seeking new opportunities to leverage my skills and grow as an engineer.
+Experienced software engineer in health tech product development, building scalable client-side features for an Electronic Health Record (EHR) platform. Passionate about creating intuitive solutions that make a real-world impact. Actively seeking new opportunities to leverage my skills and grow as an engineer.
 <br />
 <br />
 When I’m not coding, you’ll find me hitting the gym, experimenting with new recipes, exploring the world through my camera lens, vibing to hip-hop, or catching a basketball game —Lakers in 5.
