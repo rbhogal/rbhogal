@@ -1,4 +1,4 @@
-[![Banner](./github-banner-frontend-engineer.png)](https://rbhogal.github.io)
+[![Banner](./github-banner-software-engineer.png)](https://rbhogal.github.io)
 
 
 <h2 align="center">
