@@ -12,8 +12,10 @@ When I’m not coding, you’ll find me hitting the gym, experimenting with new 
 <br />
 <br />
 
-I'm currently working on [MedAssist AI](https://github.com/rbhogal/med-assist-ai), a chatbot that handles FAQs and bookings for primary care clinics. 
-
+Currently building:
+- Computer vision AI application for hand hygeine monitoring deployed on Modalix MLSoC edge hardware.
+- Diabetic Foot Ulcer image analysis pipeline using FUSegNet deep learning segmentation on the FUSeg dataset (1,210 clinical images), with downstream tissue composition and morphology analysis using OpenCV and Python.
+  
 ## Skills
 
 #### Languages
